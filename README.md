@@ -11,15 +11,15 @@ Para compilar e executar os programas é necessário ter instalado:
 
 Para compilar um dos arquivos `.cpp`, execute no terminal:
 
-g++ nome-do-arquivo.cpp
+`g++ nome-do-arquivo.cpp`
 
 Isso irá compilar o código e gerar um arquivo executável chamado:
 
-a.exe
+`a.exe`
 
 Após compilar o programa, execute o seguinte comando:
 
-./a.exe
+`./a.exe`
 
 Esse comando executa o programa que foi gerado pela compilação.
 
